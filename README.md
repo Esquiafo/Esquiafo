@@ -1,7 +1,7 @@
 
 
 ### :hammer_and_wrench: Skills :
-<div>
+<div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
@@ -23,9 +23,11 @@
 </div>
       
 ### :mechanical_arm: Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=Esquiafo&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Esquiafo&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly"/> 
+</div>
 
 ### :computer: Updates :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esquiafo&layout=compact)](https://github.com/esquiafo/github-readme-stats)
-
-</a>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esquiafo&layout=compact" />
+</div>
