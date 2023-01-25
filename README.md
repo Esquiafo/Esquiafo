@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Esquiafo&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 <!--
 **Esquiafo/Esquiafo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
