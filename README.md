@@ -1,5 +1,5 @@
 
-
+<a><img src="https://dump.cy.md/6c736bfd11ded8cdc5e2bda009a6694a/colortext.svg"/><
 ### :hammer_and_wrench: Skills :
 <div style="background: lavender;>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -28,3 +28,4 @@
 ### :computer: Updates :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esquiafo&layout=compact)](https://github.com/esquiafo/github-readme-stats)
 
+/a>
