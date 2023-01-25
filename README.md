@@ -20,7 +20,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" alt="Solidity" width="40" height="40"/>&nbsp;
 </div>
       
-
+### :mechanical_arm: Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=Esquiafo&theme=dark&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
+### :computer: Updates :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esquiafo&layout=compact)](https://github.com/esquiafo/github-readme-stats)
